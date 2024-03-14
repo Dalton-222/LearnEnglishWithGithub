@@ -72,6 +72,44 @@
 5. **Acrônimos e Abreviações:**
    - Algumas palavras são formadas por meio da combinação de letras iniciais de várias palavras. Exemplo: NASA [ˈnæsə] (National Aeronautics and Space Administration), laser [ˈleɪzər] (light amplification by stimulated emission of radiation).
 
+###Uso de Pontuações:
+
+O uso de pontuações em inglês é semelhante ao português, mas há algumas diferenças nas regras específicas. Aqui estão algumas pontuações comuns em inglês e exemplos de frases com suas respectivas pronúncias em IPA:
+
+1. **Ponto Final (Full Stop):**
+   - Usa-se para indicar o final de uma frase declarativa.
+   - Exemplo: She is going to the store. [ʃi ɪz ˈɡoʊɪŋ tuː ðə stɔr.]
+
+2. **Vírgula (Comma):**
+   - Usa-se para separar elementos em uma lista, delimitar uma oração subordinada ou indicar uma pausa breve.
+   - Exemplo: I like to read, write, and draw. [aɪ laɪk tə rid, raɪt, ænd drɔ.]
+
+3. **Ponto e Vírgula (Semicolon):**
+   - Pode ser usado para separar duas frases independentes relacionadas.
+   - Exemplo: She studied hard; she passed the exam. [ʃi ˈstʌdɪd hɑrd; ʃi pæst ðə ɪɡˈzæm.]
+
+4. **Dois-Pontos (Colon):**
+   - Usado para introduzir uma lista, explicação ou citação.
+   - Exemplo: The ingredients for the recipe are: flour, sugar, and eggs. [ðə ɪnˈɡridiənts fɔr ðə ˈrɛsəpi ər: flaʊər, ˈʃʊɡər, ænd ɛɡz.]
+
+5. **Ponto de Interrogação (Question Mark):**
+   - Colocado no final de uma frase interrogativa.
+   - Exemplo: Where are you going? [wɛr ər ju ˈɡoʊɪŋ?]
+
+6. **Ponto de Exclamação (Exclamation Mark):**
+   - Indica exclamação ou ênfase.
+   - Exemplo: What a beautiful day! [wʌt ə ˈbjutəfəl deɪ!]
+
+7. **Ponto e Vírgula (Ellipsis):**
+   - Usado para indicar uma pausa ou omissão de palavras.
+   - Exemplo: The story was intriguing... [ðə ˈstɔri wəz ɪnˈtriɡɪŋ...]
+
+8. **Aspas (Quotation Marks):**
+   - Usadas para indicar discurso direto ou para citar algo.
+   - Exemplo: She said, "Hello!" [ʃi sɛd, "həˈloʊ!"]
+
+### **A entonação e a pausa na pronúncia ajudam a transmitir o significado das pontuações.** Praticar a leitura em voz alta pode ser uma maneira eficaz de aprimorar a pronúncia e a entonação em inglês.
+
 
 #### [HOME](../README.md) | [PRÓXIMO >>](./MODULE2.md)
 
