@@ -1,3 +1,7 @@
+# Bem-vindo ao Módulo 1:
+
+### Sílabas em Inglês:
+
 1. **Vogais Simples:**
    - /æ/ - bat [bæt]
    - /ɛ/ - bet [bɛt]
@@ -48,7 +52,7 @@
    - /ks/ - box [bɒks]
    - /gz/ - example [ɪɡˈzæmpəl]
 
-###Frases de exemplo e processo de formação das palavras:
+### Frases de exemplo e processo de formação das palavras:
 
 1. **Sufixos:**
    - **-er/-or:** adicionado a um verbo para indicar a pessoa ou coisa que realiza a ação. Exemplo: teacher [ˈtiːʧər] (professor), actor [ˈæk.tər] (ator).
@@ -72,7 +76,7 @@
 5. **Acrônimos e Abreviações:**
    - Algumas palavras são formadas por meio da combinação de letras iniciais de várias palavras. Exemplo: NASA [ˈnæsə] (National Aeronautics and Space Administration), laser [ˈleɪzər] (light amplification by stimulated emission of radiation).
 
-###Uso de Pontuações:
+### Uso de Pontuações:
 
 O uso de pontuações em inglês é semelhante ao português, mas há algumas diferenças nas regras específicas. Aqui estão algumas pontuações comuns em inglês e exemplos de frases com suas respectivas pronúncias em IPA:
 
